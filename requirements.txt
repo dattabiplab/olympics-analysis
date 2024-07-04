@@ -1,4 +1,5 @@
 streamlit
+scipy
 plotly
 seaborn
 pandas
